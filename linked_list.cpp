@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// used for memory chunks memory chunks
+// used for managing memory chunks
 struct MemoryLL
 {
     void *startAddress;
